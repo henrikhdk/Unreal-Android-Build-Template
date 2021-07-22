@@ -813,3 +813,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.22-21.22.02:582][850]LogContentValidation: Display: Validating World /Game/Empety_Map.Empety_Map
 [2021.07.22-21.22.02:665][852]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.07.22-21.22.07:541][170]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.22-21.25.09:066][463]LogContentBrowser: Attempting asset rename: Empety_Map -> Empety_Map
+[2021.07.22-21.26.33:380][229]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.22-21.27.07:766][  5]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.22-21.38.38:520][942]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.22-21.44.41:324][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.22-21.46.25:990][223]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
